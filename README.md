@@ -69,4 +69,5 @@ To set up **Eka – The Tripsy India** locally:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/eka-the-tripsy-india.git
+   git clone https://github.com/Dhanusri26-lore/Simba.git
+
