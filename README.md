@@ -50,6 +50,7 @@ From ancient forts and sacred temples to world heritage marvels, Eka unites **hi
 
 ---
 
+
 ### 🧰 Technologies Used
 
 | Technology | Purpose |
@@ -60,5 +61,12 @@ From ancient forts and sacred temples to world heritage marvels, Eka unites **hi
 | **JavaScript (JSON)** | Data management, interactivity, and AI/chatbot configuration |
 
 ---
+   ```bash
+   git clone https://github.com/Dhanusri26-lore/Simba.git
+### 🚀 Getting Started
+
+To set up **Eka – The Tripsy India** locally:
+
+1. **Clone the repository**
    ```bash
    git clone https://github.com/yourusername/eka-the-tripsy-india.git
